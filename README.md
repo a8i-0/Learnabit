@@ -1,6 +1,6 @@
-# Lernabit
+# Learnabit
 
-Lernabit is a habit-building app that turns daily quests into XP, streaks, and achievements. It is built with Streamlit and stores data in a local SQLite database.
+Learnabit is a habit-building app that turns daily quests into XP, streaks, and achievements. It is built with Streamlit and stores data in a local SQLite database.
 
 ## Run locally
 
